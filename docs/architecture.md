@@ -2,16 +2,16 @@
 
 Abstract:
 - Corpus Providers
- - Sources for Large-Scale Corpus'
- - Sources for localized Corpus'
+  - Sources for Large-Scale Corpus'
+  - Sources for localized Corpus'
 - Natural Language Processing (NPL) Manager
- - Parsing/Segmentation Strategy
- - Feature Extraction (TF-IDF, SynNet, etc)
- - Domain-Oriented Model for corpus(')
+  - Parsing/Segmentation Strategy
+  - Feature Extraction (TF-IDF, SynNet, etc)
+  - Domain-Oriented Model for corpus(')
 - Machine Learning (ML) Manager
- - Transformation & Preperation
- - Supervised/Unsupervised Algorithms
- - Model Extraction & Storage
+  - Transformation & Preperation
+  - Supervised/Unsupervised Algorithms
+  - Model Extraction & Storage
 - Presentation (Web Site, Terminal, etc)
 
 Logical:
