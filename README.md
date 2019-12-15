@@ -1,3 +1,3 @@
 # Reliquary
 
-[pythia](./docs/image.png)
+![pythia](./docs/image.png)
